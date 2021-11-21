@@ -1,7 +1,9 @@
 # concentration-mode
 Switch to concentration mode by killing explorer.exe (Fun)
 
-Convert to .exe by using [Bat To Exe Converter](https://www.battoexeconverter.com/)
+**I know I spelled "WARNING" wrong.**
+
+Convert to .exe by using [Bat To Exe Converter](https://www.battoexeconverter.com/).
 
 
 [Virus Scan .exe file (0.0.2)](https://www.virustotal.com/gui/file/05fd285d4cef6ce6ee321561ba08acb156ed470dcedf7358bbfa261a772f5a7c?nocache=1):
