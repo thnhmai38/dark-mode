@@ -1,7 +1,7 @@
 # concentration-mode
 Switch to concentration mode by killing explorer.exe (Fun)
 
-**I know I spelled "WARNING" wrong.**
+**I know I wrote "WARNING" wrong.**
 
 Convert to .exe by using [Bat To Exe Converter](https://www.battoexeconverter.com/).
 
