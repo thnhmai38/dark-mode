@@ -20,7 +20,7 @@ start taskmgr.exe
 cls
 echo                 - Coding by thanhgaming5550 -
 echo ----------------------------------------------------------------
-echo  WARNNING: Don't close this program !
+echo  WARNING: Don't close this program !
 echo            When Exit Dark Mode, Task Manager won't be closed
 echo  Exit: Press any key
 echo ----------------------------------------------------------------
