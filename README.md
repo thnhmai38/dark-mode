@@ -1,11 +1,4 @@
-# concentration-mode
-Switch to concentration mode by killing explorer.exe (Fun)
+# dark-mode
+Switch to "dark mode" by killing explorer.exe (Fun)
 
-**I know I wrote "WARNING" wrong.**
-
-Convert to .exe by using [Bat To Exe Converter](https://www.battoexeconverter.com/).
-
-
-[Virus Scan .exe file (0.0.2)](https://www.virustotal.com/gui/file/05fd285d4cef6ce6ee321561ba08acb156ed470dcedf7358bbfa261a772f5a7c?nocache=1):
-
-![image](https://user-images.githubusercontent.com/62001770/142758611-57d64251-c611-493d-a05a-765f4de90b93.png)
+![image](https://github.com/thanhgaming5550/concentration-mode/assets/62001770/586ae5be-b2b2-450f-8f9d-9e38bd99b906)
