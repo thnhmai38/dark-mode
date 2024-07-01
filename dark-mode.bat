@@ -1,9 +1,9 @@
 @echo off
 echo     - Coding by thanhgaming5550 -
-echo Source: https://github.com/thanhgaming5550/concentration-mode
+echo Source: https://github.com/thanhgaming5550/dark-mode
 echo Ver: 0.0.2
 echo -------------------------------------
-echo         Concentration Mode
+echo         Dark Mode
 echo         Press any key to go
 echo -------------------------------------
 pause
@@ -21,7 +21,7 @@ cls
 echo                 - Coding by thanhgaming5550 -
 echo ----------------------------------------------------------------
 echo  WARNNING: Don't close this program !
-echo            When Exit Concentration Mode, Task Manager won't be closed
+echo            When Exit Dark Mode, Task Manager won't be closed
 echo  Exit: Press any key
 echo ----------------------------------------------------------------
 pause
